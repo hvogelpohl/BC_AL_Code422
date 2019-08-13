@@ -1,0 +1,23 @@
+{
+  "id": "38edf429-b47c-4d4f-86e7-b1e4e6394621",
+  "name": "TestApp",
+  "publisher": "TSO-DATA GmbH",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "showMyCode": true,
+  "runtime": "2.0"
+}
