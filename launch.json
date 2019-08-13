@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            //this is a BC13
+            "type": "al",
+            "request": "launch",
+            "name": "Your own server",
+            "server": "http://localhost:8380",
+            "port": 10049,
+            "serverInstance": "gdpr_toolbox_bc_ext",
+            "authentication": "Windows",
+            "breakOnError": true,
+            "launchBrowser": true,
+            // "schemaUpdateMode": "ForceSync"
+
+            // "type": "al",
+            // "request": "launch",
+            // "name": "Your own server",
+            // "server": "http://localhost",
+            // "port": 10549,
+            // "serverInstance": "BC140",
+            // "authentication": "Windows",
+            // "breakOnError": true,
+            // "launchBrowser": true,
+            // // "schemaUpdateMode": "ForceSync"
+        }
+    ]
+}
